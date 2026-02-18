@@ -12,9 +12,8 @@ Vercel Deployment: Fully optimized production build with an active live URL.
 
 🛠️ Tech Stack
 - **Framework**: Next.js 15+ (App Router)
-- **Database & Auth**: Supabase
-- **Real-time**: Supabase Postgres Changes (Websockets)
-- **Styling**: Tailwind CSS (Neumorphic Academic Theme)
+- **Database & Auth**: Supabase 
+- **Styling**: Tailwind CSS 
 - **Notifications**: React Hot Toast
 
 
